@@ -758,7 +758,7 @@ GameObject:
   m_Component:
   - component: {fileID: 580614113448447004}
   - component: {fileID: 2247128216016756815}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: DoorMarker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -841,7 +841,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2628071488049967470}
   - component: {fileID: 4693318834044766528}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: DoorMarker2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
